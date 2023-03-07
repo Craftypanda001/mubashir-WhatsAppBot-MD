@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','923010989686']
 //-------------
 
 
@@ -77,13 +77,13 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['923010989686']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['923010989686']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'crafty panda' 
    //-------------
    global.author = 'ＡＬＦＡ'
 
